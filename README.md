@@ -1,4 +1,6 @@
-## Hi there 👋
+![Akbar Dermawan](img/kyboard.JPG)
+
+## Hello I'm Akbar Dermawan Mahbubillah👋
 
 <!--
 **akbardermawan/akbardermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **C#** and **ASP.NET**
