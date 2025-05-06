@@ -5,12 +5,15 @@
 ##### Skills
 
 - Language
+
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs)](https://skillicons.dev)
 
 - Framworks & Library
+
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,next,prisma,dotnet,bootstrap,sass,tailwind)](https://skillicons.dev)
 
 - Data Base
+
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 
 ##### Connect with me
